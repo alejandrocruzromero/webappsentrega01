@@ -180,7 +180,7 @@ export default function App() {
     
     <View style={styles.itemContainer}>
          
-         
+          
         <TouchableOpacity 
           style={styles.buttonOK}
           onPress={()=>onHandleModalOK(item.id)}
